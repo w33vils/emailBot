@@ -1,0 +1,5 @@
+pyzmail36==1.0.4
+IMAPClient==2.1.0
+python_telegram_bot==12.8
+pyzmail==1.0.3
+telegram==0.0.1
